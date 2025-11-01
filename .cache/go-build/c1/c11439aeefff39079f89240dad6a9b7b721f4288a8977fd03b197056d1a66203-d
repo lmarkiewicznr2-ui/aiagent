@@ -1,0 +1,7 @@
+./configure.go
+./login.go
+./logout.go
+./root.go
+./run.go
+./submit.go
+./upgrade.go
